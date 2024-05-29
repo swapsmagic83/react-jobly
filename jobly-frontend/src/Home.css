@@ -1,0 +1,11 @@
+.NavBar-NavLink {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px 50px;
+   
+}
+.NavBar {
+    background-color: black;
+    padding: 10px;
+}
